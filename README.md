@@ -1,2 +1,1 @@
 # moto-labo
-Hello World!
